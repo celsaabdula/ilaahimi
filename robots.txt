@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vongahziep.skaffasol.nu/sitemap.xml
